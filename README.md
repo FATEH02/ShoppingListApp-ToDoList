@@ -1,4 +1,5 @@
 #Shopping List App / To-Do List
+
 Overview
 This is an Android application developed using Jetpack Compose and integrates with Google Maps to allow users to select locations. The app features a shopping list and to-do list functionalities, with location selection integrated to set and view locations on Google Maps.
 

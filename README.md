@@ -1,5 +1,11 @@
 # Shopping List App / To-Do List
 
+<img width="300"  src="https://github.com/FATEH02/ShoppingListApp-ToDoList/blob/main/Screenshot_20240828_180109_MyShoppingListApp.jpg">
+<img width="300"  src="https://github.com/FATEH02/ShoppingListApp-ToDoList/blob/main/Screenshot_20240828_180116_MyShoppingListApp.jpg">
+<img width="300"  src="https://github.com/FATEH02/ShoppingListApp-ToDoList/blob/main/Screenshot_20240828_180126_MyShoppingListApp.jpg">
+
+
+
 ## Overview
 This is an Android application developed using Jetpack Compose and integrates with Google Maps to allow users to select locations. The app features a shopping list and to-do list functionalities, with location selection integrated to set and view locations on Google Maps.
 
